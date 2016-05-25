@@ -1,6 +1,6 @@
 # Test Gettext Lang
 
-The script will allow you to test quickly, debugging easily and much easier than with pH7CMS if Gettext is correctly installed.
+The script will allow you to test quickly, debugging easily and much easier than with *pH7CMS* if Gettext is correctly installed or not.
 
 
 ## Prerequisites
@@ -14,7 +14,7 @@ The script will allow you to test quickly, debugging easily and much easier than
 
 ## How It Works?
 
-In a lot of cases, Gettext won't work for some reason (and this is not caused by pH7CMS!) To check if it is correctly installed or to debug if Gettext is not working, please play with this script.
+In a lot of cases (even when Gettext is installed on the server), Gettext won't work for some reason (and this is not caused by pH7CMS!) To check if it is correctly installed or to debug if Gettext is not working, please play with this script.
 
 In most cases when it failed, it means the OS (the system of the server) doesn't recognised the locale set by Gettext.
 
