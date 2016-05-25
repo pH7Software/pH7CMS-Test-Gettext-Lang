@@ -24,8 +24,8 @@ textdomain('global');
 bindtextdomain('global',  __DIR__ . '/langs');
 bind_textdomain_codeset(PH7_LANG_NAME, PH7_ENCODING);
 
-$sRes = gettext('Sign in to Admin Panel.');
-if ($sRes === 'Sign in to Admin Panel.') {
+$sRes = gettext('Sign in to Admin Panel');
+if ($sRes === 'Sign in to Admin Panel') {
     echo "--> Translation Failed: Original Message was returned instead.<br /><br />\r\n";
 } else {
     echo "--> Translated Message:\r\n" . $sRes;
