@@ -2,8 +2,8 @@
 /**
  * Gettext Checker
  *
- * @author         Pierre-Henry Soria <hello@ph7cms.com>
- * @copyright      (c) 2016, Pierre-Henry Soria. All Rights Reserved.
+ * @author       Pierre-Henry Soria <hello@ph7cms.com>
+ * @copyright    (c) 2016, Pierre-Henry Soria. All Rights Reserved.
  */
 
 // First off, check if Gettext is installed
