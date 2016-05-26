@@ -29,9 +29,9 @@ If you don't find the language of your Gettext translation, you will have to ins
 
 For the example, it will be French (as this script uses French locale). If French is not the language you need, you will have to change it to yours (e.g., `ru_RU` for Russian, `es_ES` for Spanish, `it_IT` for Italian, `de_DE` for German, `nl_NL` for Dutch, ...).
 
-`sudo locale-gen fr_FR`
-`sudo locale-gen fr_FR.UTF-8`
-`sudo dpkg-reconfigure locales`
+* `sudo locale-gen fr_FR`
+* `sudo locale-gen fr_FR.UTF-8`
+* `sudo dpkg-reconfigure locales`
 
 
 ## Website
