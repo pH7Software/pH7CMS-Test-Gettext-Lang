@@ -19,7 +19,7 @@ It will check for the French language (`fr_FR`), but you can change this easily 
 In a lot of cases (even when Gettext is installed on the server), Gettext won't work for some reason (and this is not caused by pH7CMS!) To check if it is correctly installed or to debug if Gettext is not working, please play with this script.
 
 
-### In most cases when it failed, it's because the OS (the system of the server) doesn't recognised the locale (the language) set by Gettext
+### *In most cases when it failed, it's because the OS (the system of the server) doesn't recognised the locale (the language) set by Gettext*
 
 ## How To Install the missing locale (language) on my server?
 
